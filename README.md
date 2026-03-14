@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Haseeb</h1>
-<h3 align="center">Cybersecurity Student | CTF Player | Vulnerability Researcher</h3>
+<h3 align="center">Cybersecurity Student | CTF Player | Vulnerability Researcher | DevSecOps Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdulhasyyb&label=Profile%20views&color=0e75b6&style=flat" alt="abdulhasyyb" />
@@ -13,7 +13,7 @@
 - 🏆 Active **CTF** competitor with notable placements
 - 🛡️ Responsible disclosure — reported a **zero-day API vulnerability** affecting a Pakistan federal government portal
 - 👨‍💻 All of my projects are available here on [GitHub](https://github.com/abdulhasyyb)
-- 📫 How to reach me: **[<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="7f1e1d1b0a13171e0c1a1a1d3f1a071e120f131a511c1012">[email&#160;protected]</a>](mailto:<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="a4c5c6c0d1c8ccc5d7c1c1c6e4c1dcc5c9d4c8c18ac7cbc9">[email&#160;protected]</a>)**
+- 📫 How to reach me: **[abdulhaseeb2405@gmail.com](mailto:abdulhaseeb2405@gmail.com)**
 
 ---
 
@@ -55,17 +55,6 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
 
-  <!-- DevOps / Infra -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-
   <!-- Security Tools -->
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/13749115?s=200&v=4" alt="burpsuite" width="40" height="40"/>
@@ -105,7 +94,13 @@
     <img src="https://res.cloudinary.com/snyk/image/upload/v1537345894/press-kit/brand/logo-black.png" alt="snyk" width="40" height="40"/>
   </a>
 
-  <!-- Editor -->
+  <!-- Core Tools -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/>
   </a>
@@ -130,18 +125,13 @@
 
 ---
 
-### 🔗 Co
-<!--
-**abdulhasyyb/abdulhasyyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔗 Connect with me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://www.linkedin.com/in/abdul-haseeb-09886b287/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+  </a>
+  <a href="mailto:abdulhaseeb2405@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" width="40" height="40"/>
+  </a>
+</p>
